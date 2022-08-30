@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Differences Between Feral and Wild Cats.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Differences Between Feral and Wild Cats.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1254</width>
+		<height>836</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>493</xmin>
+			<ymin>215</ymin>
+			<xmax>994</xmax>
+			<ymax>665</ymax>
+		</bndbox>
+	</object>
+</annotation>

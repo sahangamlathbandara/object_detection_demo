@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Good Neighbor While Feeding Feral Cats.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Good Neighbor While Feeding Feral Cats.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>539</xmin>
+			<ymin>428</ymin>
+			<xmax>1618</xmax>
+			<ymax>1556</ymax>
+		</bndbox>
+	</object>
+</annotation>

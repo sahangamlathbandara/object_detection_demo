@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>animals_pets_Dulux Puppy For Sale 50.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\animals_pets_Dulux Puppy For Sale 50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>6</ymin>
+			<xmax>637</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

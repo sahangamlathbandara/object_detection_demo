@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>What Is a Feral Cat_ - Petfinder.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\What Is a Feral Cat_ - Petfinder.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>632</width>
+		<height>475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>3</ymin>
+			<xmax>577</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>

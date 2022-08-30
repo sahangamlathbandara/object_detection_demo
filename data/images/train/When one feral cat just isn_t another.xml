@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>When one feral cat just isn_t another.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\When one feral cat just isn_t another.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>635</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>320</xmin>
+			<ymin>129</ymin>
+			<xmax>716</xmax>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+</annotation>

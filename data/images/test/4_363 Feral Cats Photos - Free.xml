@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>4_363 Feral Cats Photos - Free.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\4_363 Feral Cats Photos - Free.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>259</ymin>
+			<xmax>369</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>91</ymin>
+			<xmax>389</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

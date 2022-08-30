@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Monkey Attack_ Sri Lanka Photo Post.webp</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Monkey Attack_ Sri Lanka Photo Post.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>127</ymin>
+			<xmax>275</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

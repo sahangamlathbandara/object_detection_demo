@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Expedition to Monkey Kingdom _ Monkeys.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Expedition to Monkey Kingdom _ Monkeys.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>685</width>
+		<height>457</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>198</ymin>
+			<xmax>235</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>529</xmin>
+			<ymin>215</ymin>
+			<xmax>633</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>628</xmin>
+			<ymin>197</ymin>
+			<xmax>685</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

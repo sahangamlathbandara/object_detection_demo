@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Do Rats Know When They Don_t Know_ _ WIRED.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Do Rats Know When They Don_t Know_ _ WIRED.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2239</width>
+		<height>1493</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>517</xmin>
+			<ymin>101</ymin>
+			<xmax>1963</xmax>
+			<ymax>1444</ymax>
+		</bndbox>
+	</object>
+</annotation>

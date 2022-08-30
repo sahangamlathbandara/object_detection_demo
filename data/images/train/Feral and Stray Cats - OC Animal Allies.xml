@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Feral and Stray Cats - OC Animal Allies.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Feral and Stray Cats - OC Animal Allies.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>27</ymin>
+			<xmax>900</xmax>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+</annotation>

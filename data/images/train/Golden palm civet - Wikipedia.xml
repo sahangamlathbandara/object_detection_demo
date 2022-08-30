@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Golden palm civet - Wikipedia.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Golden palm civet - Wikipedia.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Civet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>123</ymin>
+			<xmax>462</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

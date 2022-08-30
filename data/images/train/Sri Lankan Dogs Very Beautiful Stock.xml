@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Sri Lankan Dogs Very Beautiful Stock.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Sri Lankan Dogs Very Beautiful Stock.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>957</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>10</ymin>
+			<xmax>1090</xmax>
+			<ymax>821</ymax>
+		</bndbox>
+	</object>
+</annotation>

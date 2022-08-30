@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Roof Rats And Norway Rats In North Carolina.png</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Roof Rats And Norway Rats In North Carolina.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>6</ymin>
+			<xmax>939</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Five Pound Friday _ Dogstar Foundation.jpeg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Five Pound Friday _ Dogstar Foundation.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>583</width>
+		<height>475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>5</ymin>
+			<xmax>427</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

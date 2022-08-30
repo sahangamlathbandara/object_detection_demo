@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Relocating Five Pets to Sri Lanka.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Relocating Five Pets to Sri Lanka.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>410</width>
+		<height>292</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>65</ymin>
+			<xmax>214</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>13</ymin>
+			<xmax>403</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Asian Palm Civet _ Project Noah.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Asian Palm Civet _ Project Noah.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>471</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Civet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>120</ymin>
+			<xmax>400</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

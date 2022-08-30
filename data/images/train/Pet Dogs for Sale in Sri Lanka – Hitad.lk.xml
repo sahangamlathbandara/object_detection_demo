@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Pet Dogs for Sale in Sri Lanka – Hitad.lk.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Pet Dogs for Sale in Sri Lanka – Hitad.lk.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>255</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>67</ymin>
+			<xmax>292</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

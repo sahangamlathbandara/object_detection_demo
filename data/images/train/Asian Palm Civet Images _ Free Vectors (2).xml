@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Asian Palm Civet Images _ Free Vectors (2).webp</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Asian Palm Civet Images _ Free Vectors (2).webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1335</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Civet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>1616</xmax>
+			<ymax>1207</ymax>
+		</bndbox>
+	</object>
+</annotation>

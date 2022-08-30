@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Common Palm Civet - Stock Image - F031.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Common Palm Civet - Stock Image - F031.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Civet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>23</ymin>
+			<xmax>176</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>

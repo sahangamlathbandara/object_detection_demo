@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Sri Lanka_s Monkey Kingdom (1).jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Sri Lanka_s Monkey Kingdom (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>223</ymin>
+			<xmax>401</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>619</xmin>
+			<ymin>291</ymin>
+			<xmax>680</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

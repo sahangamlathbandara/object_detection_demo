@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>More on the Masked palm civet.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\More on the Masked palm civet.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Civet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>174</ymin>
+			<xmax>748</xmax>
+			<ymax>921</ymax>
+		</bndbox>
+	</object>
+</annotation>

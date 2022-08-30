@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Feral cat numbers spike in the Great.webp</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Feral cat numbers spike in the Great.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>862</width>
+		<height>575</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>1</ymin>
+			<xmax>839</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>

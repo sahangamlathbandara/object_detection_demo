@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Eating Dog Meat.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Eating Dog Meat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>308</width>
+		<height>164</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>22</ymin>
+			<xmax>210</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>8 Interesting Facts About Rats _ Britannica (1).jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\8 Interesting Facts About Rats _ Britannica (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>189</ymin>
+			<xmax>812</xmax>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>44</ymin>
+			<xmax>680</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

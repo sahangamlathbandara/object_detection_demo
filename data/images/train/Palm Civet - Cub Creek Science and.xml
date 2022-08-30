@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Palm Civet - Cub Creek Science and.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Palm Civet - Cub Creek Science and.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Civet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>6</ymin>
+			<xmax>449</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Spirit_ the deaf feral cat.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Spirit_ the deaf feral cat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>6</ymin>
+			<xmax>490</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

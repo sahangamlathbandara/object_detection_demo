@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Facts About Rats _ Types Of Rats _ DK_yythkg.png</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Facts About Rats _ Types Of Rats _ DK_yythkg.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>848</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>16</ymin>
+			<xmax>1363</xmax>
+			<ymax>823</ymax>
+		</bndbox>
+	</object>
+</annotation>

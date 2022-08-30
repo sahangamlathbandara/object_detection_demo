@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>CDC warns of aggressive cannibal rats.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\CDC warns of aggressive cannibal rats.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>194</ymin>
+			<xmax>399</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

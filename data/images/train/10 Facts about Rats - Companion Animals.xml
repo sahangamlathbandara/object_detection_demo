@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>10 Facts about Rats - Companion Animals.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\10 Facts about Rats - Companion Animals.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2769</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1156</xmin>
+			<ymin>902</ymin>
+			<xmax>3065</xmax>
+			<ymax>2071</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>National Feral Cat Day (October 16th.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\National Feral Cat Day (October 16th.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>956</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>239</ymin>
+			<xmax>340</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>327</xmin>
+			<ymin>271</ymin>
+			<xmax>562</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>632</xmin>
+			<ymin>283</ymin>
+			<xmax>826</xmax>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+</annotation>

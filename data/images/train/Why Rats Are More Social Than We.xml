@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Why Rats Are More Social Than We.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Why Rats Are More Social Than We.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>141</ymin>
+			<xmax>360</xmax>
+			<ymax>607</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>168</ymin>
+			<xmax>708</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>739</xmin>
+			<ymin>164</ymin>
+			<xmax>1162</xmax>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+</annotation>

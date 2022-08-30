@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Photo Ark Home Asian Palm Civet.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Photo Ark Home Asian Palm Civet.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6128</width>
+		<height>4090</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Civet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1033</xmin>
+			<ymin>207</ymin>
+			<xmax>4552</xmax>
+			<ymax>3407</ymax>
+		</bndbox>
+	</object>
+</annotation>

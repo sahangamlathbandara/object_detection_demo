@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Common (Sumatran) Palm Civet (1).jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Common (Sumatran) Palm Civet (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Civet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>27</ymin>
+			<xmax>400</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

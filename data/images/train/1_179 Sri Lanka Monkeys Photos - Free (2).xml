@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1_179 Sri Lanka Monkeys Photos - Free (2).jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\1_179 Sri Lanka Monkeys Photos - Free (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>656</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>115</ymin>
+			<xmax>648</xmax>
+			<ymax>864</ymax>
+		</bndbox>
+	</object>
+</annotation>

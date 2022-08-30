@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Bringing up doggy _ The Sunday Times.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Bringing up doggy _ The Sunday Times.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>938</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>87</ymin>
+			<xmax>167</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>745</xmin>
+			<ymin>168</ymin>
+			<xmax>890</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>513</xmin>
+			<ymin>134</ymin>
+			<xmax>673</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

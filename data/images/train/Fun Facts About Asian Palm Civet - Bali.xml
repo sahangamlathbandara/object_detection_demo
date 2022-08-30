@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Fun Facts About Asian Palm Civet - Bali.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Fun Facts About Asian Palm Civet - Bali.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>452</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Civet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>34</ymin>
+			<xmax>696</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

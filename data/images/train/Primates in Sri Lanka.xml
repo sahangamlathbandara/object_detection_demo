@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Primates in Sri Lanka.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Primates in Sri Lanka.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>719</xmin>
+			<ymin>257</ymin>
+			<xmax>930</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+</annotation>

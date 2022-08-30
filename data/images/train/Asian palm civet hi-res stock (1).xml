@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Asian palm civet hi-res stock (1).jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Asian palm civet hi-res stock (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Civet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>207</ymin>
+			<xmax>1039</xmax>
+			<ymax>757</ymax>
+		</bndbox>
+	</object>
+</annotation>

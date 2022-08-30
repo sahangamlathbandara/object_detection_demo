@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Sri Lankan Monkeys at Yala National.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Sri Lankan Monkeys at Yala National.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>957</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>48</ymin>
+			<xmax>660</xmax>
+			<ymax>570</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Cork_ Jail for man who released rats at.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Cork_ Jail for man who released rats at.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>2</ymin>
+			<xmax>570</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

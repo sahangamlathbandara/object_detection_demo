@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Albuquerque Feral Cat Spay Neuter.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Albuquerque Feral Cat Spay Neuter.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>567</xmin>
+			<ymin>143</ymin>
+			<xmax>2500</xmax>
+			<ymax>1667</ymax>
+		</bndbox>
+	</object>
+</annotation>

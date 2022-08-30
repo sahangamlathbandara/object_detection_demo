@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>The dog of Sri Lanka stock image. Image.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\The dog of Sri Lanka stock image. Image.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>822</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>16</ymin>
+			<xmax>1300</xmax>
+			<ymax>726</ymax>
+		</bndbox>
+	</object>
+</annotation>

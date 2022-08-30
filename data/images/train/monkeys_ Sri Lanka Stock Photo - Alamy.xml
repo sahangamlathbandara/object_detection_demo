@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>monkeys_ Sri Lanka Stock Photo - Alamy.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\monkeys_ Sri Lanka Stock Photo - Alamy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>477</xmin>
+			<ymin>46</ymin>
+			<xmax>970</xmax>
+			<ymax>770</ymax>
+		</bndbox>
+	</object>
+</annotation>

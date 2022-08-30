@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Feral Cat_ Understanding Street Cats.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Feral Cat_ Understanding Street Cats.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>473</width>
+		<height>356</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>32</ymin>
+			<xmax>453</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

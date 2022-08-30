@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Feral cat - Wikipedia.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Feral cat - Wikipedia.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3888</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1216</xmin>
+			<ymin>28</ymin>
+			<xmax>3868</xmax>
+			<ymax>2576</ymax>
+		</bndbox>
+	</object>
+</annotation>

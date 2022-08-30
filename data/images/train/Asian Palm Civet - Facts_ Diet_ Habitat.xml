@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Asian Palm Civet - Facts_ Diet_ Habitat.webp</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Asian Palm Civet - Facts_ Diet_ Habitat.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Civet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>121</ymin>
+			<xmax>617</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>

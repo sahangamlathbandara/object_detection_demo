@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Bill to reduce Hawaii_s feral cat.png</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Bill to reduce Hawaii_s feral cat.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1628</width>
+		<height>916</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>761</xmin>
+			<ymin>535</ymin>
+			<xmax>1181</xmax>
+			<ymax>826</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1250</xmin>
+			<ymin>582</ymin>
+			<xmax>1628</xmax>
+			<ymax>795</ymax>
+		</bndbox>
+	</object>
+</annotation>

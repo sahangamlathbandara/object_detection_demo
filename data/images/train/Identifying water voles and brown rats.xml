@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Identifying water voles and brown rats.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Identifying water voles and brown rats.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5616</width>
+		<height>3744</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1760</xmin>
+			<ymin>783</ymin>
+			<xmax>4548</xmax>
+			<ymax>2895</ymax>
+		</bndbox>
+	</object>
+</annotation>

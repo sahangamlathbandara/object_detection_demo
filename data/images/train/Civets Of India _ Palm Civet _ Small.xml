@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Civets Of India _ Palm Civet _ Small.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Civets Of India _ Palm Civet _ Small.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>789</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Civet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1024</xmin>
+			<ymin>594</ymin>
+			<xmax>1024</xmax>
+			<ymax>789</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Civet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>359</ymin>
+			<xmax>1024</xmax>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
+</annotation>

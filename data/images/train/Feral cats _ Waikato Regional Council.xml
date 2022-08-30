@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Feral cats _ Waikato Regional Council.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Feral cats _ Waikato Regional Council.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1125</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>7</ymin>
+			<xmax>1380</xmax>
+			<ymax>1094</ymax>
+		</bndbox>
+	</object>
+</annotation>

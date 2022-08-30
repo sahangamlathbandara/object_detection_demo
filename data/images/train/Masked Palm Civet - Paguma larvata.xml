@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Masked Palm Civet - Paguma larvata.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Masked Palm Civet - Paguma larvata.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Civet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>9</ymin>
+			<xmax>400</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

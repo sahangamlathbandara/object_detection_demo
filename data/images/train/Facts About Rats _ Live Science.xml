@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Facts About Rats _ Live Science.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Facts About Rats _ Live Science.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>482</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>19</ymin>
+			<xmax>287</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

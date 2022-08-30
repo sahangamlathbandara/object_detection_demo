@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Toque macaque - Wikipedia.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Toque macaque - Wikipedia.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1801</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>142</ymin>
+			<xmax>1133</xmax>
+			<ymax>1645</ymax>
+		</bndbox>
+	</object>
+</annotation>

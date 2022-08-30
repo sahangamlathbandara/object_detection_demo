@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>25_846 Feral cat Images_ Stock Photos.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\25_846 Feral cat Images_ Stock Photos.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>393</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>129</ymin>
+			<xmax>222</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

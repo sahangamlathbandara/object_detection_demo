@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>rats have taken over London in lockdown.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\rats have taken over London in lockdown.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>587</xmin>
+			<ymin>277</ymin>
+			<xmax>1633</xmax>
+			<ymax>1303</ymax>
+		</bndbox>
+	</object>
+</annotation>

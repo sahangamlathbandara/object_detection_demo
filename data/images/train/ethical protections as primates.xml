@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ethical protections as primates.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\ethical protections as primates.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1252</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>502</xmin>
+			<ymin>192</ymin>
+			<xmax>1430</xmax>
+			<ymax>1092</ymax>
+		</bndbox>
+	</object>
+</annotation>

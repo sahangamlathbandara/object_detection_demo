@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Puppies_suckle_sri lanka_street dogs.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Puppies_suckle_sri lanka_street dogs.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>585</xmin>
+			<ymin>22</ymin>
+			<xmax>1129</xmax>
+			<ymax>812</ymax>
+		</bndbox>
+	</object>
+</annotation>

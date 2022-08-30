@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Sri Lankan Toque Macaque _ Toque (1).jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Sri Lankan Toque Macaque _ Toque (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>486</width>
+		<height>347</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>72</ymin>
+			<xmax>455</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Roof Rats Information_ Habits_ Habitat.jpg</filename>
+	<path>C:\Users\acer\Desktop\New folder (2)\Object Detection\images\Roof Rats Information_ Habits_ Habitat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>510</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>7</ymin>
+			<xmax>460</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>
